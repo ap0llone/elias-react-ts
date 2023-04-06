@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/elias-react-ts/static/css/main.f02ed224.css",
+    "main.js": "/elias-react-ts/static/js/main.bd4ea836.js",
+    "static/media/aboutimg.png": "/elias-react-ts/static/media/aboutimg.abca880a7c9f0cba74be.png",
+    "static/media/header-img.png": "/elias-react-ts/static/media/header-img.ad46e82b87f1e053587f.png",
+    "static/media/img1.png": "/elias-react-ts/static/media/img1.56721fddcd89e9061df5.png",
+    "static/media/img5.png": "/elias-react-ts/static/media/img5.8e8be0321c18b3b27364.png",
+    "static/media/img4.png": "/elias-react-ts/static/media/img4.b8010684968452a0e09a.png",
+    "static/media/img2.png": "/elias-react-ts/static/media/img2.3792a12ac8c8bdf347c6.png",
+    "static/media/img3.png": "/elias-react-ts/static/media/img3.e342c01770c03be64659.png",
+    "static/media/discord.svg": "/elias-react-ts/static/media/discord.7da0cd39338a94a527b089f8afa24fdb.svg",
+    "static/media/dribbble.svg": "/elias-react-ts/static/media/dribbble.dc2e9817306f1e2bb7ae115bc3695f49.svg",
+    "static/media/github.svg": "/elias-react-ts/static/media/github.8adab485ea6dc5380696d70cdcd5ec4f.svg",
+    "static/media/figma.svg": "/elias-react-ts/static/media/figma.b85869bf8731425b9f36b86206facde5.svg",
+    "static/media/twitter.svg": "/elias-react-ts/static/media/twitter.4be1873180e49a62c6a4d34fe5e11202.svg",
+    "static/media/email.svg": "/elias-react-ts/static/media/email.1288a785f54163a0c688f7729ef8e4a7.svg",
+    "index.html": "/elias-react-ts/index.html",
+    "static/media/close.svg": "/elias-react-ts/static/media/close.4359e5a83abcec443d429aaad14dba9c.svg",
+    "static/media/burger.svg": "/elias-react-ts/static/media/burger.8cd319a00f8e003ee867e7a7018aa10f.svg",
+    "main.f02ed224.css.map": "/elias-react-ts/static/css/main.f02ed224.css.map",
+    "main.bd4ea836.js.map": "/elias-react-ts/static/js/main.bd4ea836.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f02ed224.css",
+    "static/js/main.bd4ea836.js"
+  ]
+}
