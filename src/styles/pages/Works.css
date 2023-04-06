@@ -1,0 +1,21 @@
+.complete-apps {
+    padding-top: 68px;
+    padding-bottom: 81px;
+}
+.small-projects {
+    padding-top: 81px;
+    padding-bottom: 180px;
+}
+.small-projects__card {
+    border: 1px solid #abb2bf;
+}
+.small-projects__card-text {
+    max-width: 300px;
+    margin-bottom: 16px;
+
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 21px;
+    color: #abb2bf;
+}

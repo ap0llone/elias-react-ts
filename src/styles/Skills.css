@@ -1,0 +1,39 @@
+.skills {
+    padding-bottom: 112px;
+}
+.skills__container {
+    display: flex;
+    column-gap: 59px;
+}
+.skills__list {
+    display: flex;
+    justify-content: flex-end;
+    flex-wrap: wrap;
+    column-gap: 16px;
+    row-gap: 16px;
+}
+.skills__card {
+    max-width: 178px;
+    min-height: 120px;
+    border: 1px solid #abb2bf;
+}
+.skills__card-title {
+    padding: 8px 0;
+    padding-left: 8px;
+    border-bottom: 1px solid #abb2bf;
+
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 21px;
+}
+.skills__card-text {
+    padding: 8px;
+
+    max-width: 162px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 21px;
+    color: #abb2bf;
+}

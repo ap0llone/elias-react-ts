@@ -1,0 +1,38 @@
+.about {
+    padding-bottom: 112px;
+}
+.about__container {
+    display: flex;
+    justify-content: space-between;
+}
+.about__content {
+    padding-top: 23px;
+}
+.about__text {
+    max-width: 515px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+}
+.about__text-span {
+    color: #abb2bf;
+    margin-bottom: 30px;
+}
+.about__btn {
+    display: inline-flex;
+    align-items: center;
+    column-gap: 16px;
+
+    border: 1px solid #c778dd;
+    padding: 8px 16px;
+
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 21px;
+}
+.about__btn:hover {
+    background-color: #c778dd;
+    transition: 0.2s all ease;
+}
